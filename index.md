@@ -34,6 +34,9 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
+<div class="alert alert-danger">
+If you are affiliated with the Center for Spatial Data Science at the University of Chicago, you <b>do not need to pay the $10 registration fee</b> (it is only for non-UChicago and outside individuals). Please reach out to Angela at ali6@uchicago.edu for the promo code for free tickets!
+</div>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
